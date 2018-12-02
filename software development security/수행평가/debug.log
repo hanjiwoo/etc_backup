@@ -1,0 +1,1 @@
+[0617/232620.626:ERROR:file_io_win.cc(179)] CreateFile C:\Users\dsm2017\AppData\Local\Temp\scoped_dir947132_10168\Crashpad\settings.dat: 다른 프로세스가 파일을 사용 중이기 때문에 프로세스가 액세스 할 수 없습니다. (0x20)
